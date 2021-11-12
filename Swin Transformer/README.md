@@ -31,7 +31,7 @@ also prove beneficial for all-MLP architectures.
 Shifted Window Approach :- 
 ![image](https://user-images.githubusercontent.com/76057253/141417986-0526a2f7-837d-4c1e-8d34-760aac7e4689.png)
 
-ViT vs Swin Transformer :- 
+Swin Transformer vs ViT :- 
 ![image](https://user-images.githubusercontent.com/76057253/141418174-a365048d-19b5-4e08-914e-168d8a4ed190.png)
 
 Architecture Specification :- 
